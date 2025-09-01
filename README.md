@@ -1,2 +1,2 @@
-# prince
-this is demo for Git&amp; Github class
+# delta-demo
+this is demo for Git&amp; Github class.
