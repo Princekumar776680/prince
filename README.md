@@ -1,7 +1,5 @@
-# delta-demo
-this is demo for Git&amp; Github class.
+# New project
 
-# teacher 
-sharda khapra
-# student
-delta student
+Thi project was created from local system.
+created by shrada khapra.
+
